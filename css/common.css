@@ -12,3 +12,21 @@ body {
   color: #212121;
   line-height: 1.5;
 }
+
+
+
+
+
+
+
+/* task-2 */
+
+.foto {
+  list-style: none;
+}
+
+.foto-punct {
+  width: 200px;
+  height: auto;
+  display: block;
+}
